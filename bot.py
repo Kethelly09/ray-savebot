@@ -7,7 +7,7 @@ TOKEN = os.getenv("TOKEN")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "Ola send me a video link and I will download it for you 🎬"
+        "Ola Me envie o link do vídeo e eu o baixarei para você.  🎬"
     )
 
 def main():
