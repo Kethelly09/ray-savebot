@@ -9,7 +9,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
          "Ola Me envie o link do vídeo e eu o baixarei para você.🎬"
       
-        Divirta-se 🥰
+        Divirta-se
       
         — Bot criado com @GenesisCreatorBot
     )
